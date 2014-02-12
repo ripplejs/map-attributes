@@ -1,0 +1,17 @@
+{
+  "name": "map-attributes",
+  "repo": "ripplejs/map-attributes",
+  "description": "Map a nodes attributes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "anthonyshort/attributes": "*",
+    "component/assert": "0.3.0"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
